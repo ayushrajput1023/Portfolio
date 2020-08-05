@@ -1,0 +1,213 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.sidewidth{
+  margin: 2% 10%;
+}
+html{
+  width: 100%;
+  overflow-x: hidden;
+}
+/**---------------About--------------------*/
+.margintop{
+  margin-bottom: 150px;
+}
+.toph1{
+  font-size: 50px;
+  font-weight: bold;
+}
+.line{
+  color: orange;
+}
+.aboutcarosel{
+  padding-right: 60px;
+}
+.aboutdata{
+  text-align: left;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 6rem;
+}
+.navmar{
+  margin-left: 60px;
+}
+.navimg{
+  width: 80%;
+}
+.hello{
+  margin-left: 0;
+}
+.brandd{
+  font-size: 50px;
+  padding-left: 20px;
+  font-weight: bolder;
+}
+.wel{
+  background-color: orange;
+  width: 80px;
+}
+/**---------------portfolio----------------*/
+
+.col1{
+  width: 113%;
+}
+.col21{
+  width: 109%;
+  padding-left: 30px;
+}
+.col22{
+  width: 105%;
+  padding-left: 20px;
+}
+.col31{
+  width: 109%;
+  padding-top: 14px;
+  padding-left: 30px;
+}
+.col32{
+  width: 105%;
+  padding-left: 20px;
+  padding-top: 15px;
+}
+.maindiv{
+  margin-top: 20px;
+}
+/**---------------Blog--------------------*/
+.bloghead{
+  font-size: 45px;
+}
+.readlink{
+  font-size: 20px;
+  color: orange;
+}
+.readlink:hover{
+  color: orange;
+  text-decoration: none;
+}
+.blogbutn{
+  text-align: center;
+}
+.custombut{
+  border-radius: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.blogimg1{
+  width: 28rem;
+}
+.blogimg2{
+  width: 30rem;
+  padding-top: 70px;
+}
+.marginblog{
+  margin-top: 100px;
+  margin-bottom: 140px;
+}
+/**----------------Contact-----------------*/
+.contactbut{
+  border-radius: 30px;
+  padding-left: 70px;
+  padding-right: 70px;
+  background-color: black;
+  color: white;
+}
+.inputt{
+  width: 25rem;
+  height: 3rem;
+  border-radius: 10px;
+  border: 0.1px solid black;
+}
+.textareaa{
+  border-radius: 10px;
+}
+.questiondiv{
+  width: 45%;
+}
+.contactquestion{
+  font-size: 40px;
+}
+.starcolor{
+  color: orange;
+}
+/**------------------footer---------------------*/
+.footer{
+  margin-top: 80px;
+}
+
+/**---------------------------------------------------------------------------*/
+/**---------------------------------------------------------------------------*/
+@media(max-width:1028px)
+{
+
+  h1{
+    font-size: 75px;
+  }
+  p{
+    font-size: 35px;
+  }
+  .custombut{
+    font-size: 30px;
+  }
+/**---------------------------------------*/
+  .navimg{
+    width: 100%;
+    margin-left: 40px;
+    margin-top: 70px;
+  }
+  .hello{
+    margin-left: 200px;
+  }
+  .linkk{
+    font-size: 30px;
+  }
+  .icoon{
+    font-size: 30px;
+  }
+/**-----------------------------------------*/
+.col1{
+  margin-bottom: 20px;
+}
+.col21{
+  padding-left: 20px;
+}
+.col22{
+  width: 109%;
+  padding-left: 20px;
+  margin-top: 20px;
+}
+.col31{
+  padding-left: 20px;
+}
+.col32{
+  width: 109%;
+  padding-left: 20px;
+  padding-top: 15px;
+}
+/**--------------------------------------*/
+.readlink{
+  font-size: 30px;
+}
+.blogimg1{
+  width: 40rem;
+}
+.blogimg2{
+  width: 40rem;
+  padding-top: 120px;
+}
+.contactbut{
+  font-size: 30px;
+  margin-top: 50px;
+}
+label{
+  font-size: 35px;
+}
+.inputt{
+  width: 50rem;
+  height: 4rem;
+}
+.textareaa{
+  width: 50rem;
+  height: 20rem;
+}
+}
